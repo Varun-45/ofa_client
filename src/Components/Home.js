@@ -54,7 +54,7 @@ const Home = () => {
                         }}
                     >
                         <HStack spacing="10" justify="space-between" display={'flex'} flexDir={'column'}><Box display={'flex'} flexDir={'row'}><Avatar src={logo} />
-                            <Image src={name} marginLeft={5} userSelect={'none'} /><IconButton
+                            <Image src={name} marginLeft={5} userSelect={'none'} width={200} /><IconButton
                                 variant="ghost"
                                 icon={<HamburgerIcon fontSize="1.25rem" />}
                                 aria-label="Open Menu"
