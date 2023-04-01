@@ -1,7 +1,7 @@
 import React from 'react'
 import "./home.css"
 import "./home2.css"
-import "https://kit.fontawesome.com/42d5adcbca.js"
+
 import logo from "../assets/logo.jpg"
 import name from "../assets/name.jpg"
 import {
@@ -16,7 +16,7 @@ import {
     Text,
     useDisclosure,
     Stack,
-    useColorModeValue,
+
     Collapse,
     Link,
     Image,

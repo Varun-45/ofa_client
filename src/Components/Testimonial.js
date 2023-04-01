@@ -2,7 +2,7 @@ import * as React from "react";
 import Carousel from "framer-motion-carousel";
 import "./home.css"
 import "./home2.css"
-import "https://kit.fontawesome.com/42d5adcbca.js"
+
 import { Box } from "@chakra-ui/react";
 
 
